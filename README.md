@@ -1,26 +1,25 @@
-# Sean Kross
+# Anand Balaji
 
 ### Geography
 
-I live in the city of Baltimore, in the state of Maryland, in the United States
-of America.
+I live in the city of Bangalore, in the state of Karnataka, in India.
 
 ### Reading
 
 Three of my favorite books are:
 
-- *Mindstorms* by Seymour Papert
-- *Welcome to the Monkey House* by Kurt Vonnegut
-- *Persepolis* by Marjane Satrapi
+- Bhagavadgita  
+- Wings Of Fire
+- Mahabharata
 
 ### Food
 
 Last night I dreamt about eating in these restaurants:
 
-1. Linger in Denver.
-2. Azura in Jerusalem.
-3. Gemma in New York City.
+1. Animal Kingdom
+2. Barbeque Nation
+3. Sigree
 
 ### Contact
 
-The best way to get in touch with me is [on Twitter](https://twitter.com/seankross).
+The best way to get in touch with me is [on Twitter](https://twitter.com/balaji_anand).
