@@ -1,0 +1,17 @@
+commit 246e3f9b28f6ab441b3927c83a5d30b31a7b28d9
+Author: Anand Balaji T V <anandbalaji.tv@MT-C02TN1UHG8WN.local>
+Date:   Fri Dec 29 16:54:33 2017 +0530
+
+    .gitignore
+
+commit 24b9dbef1eee0151a2811ce07e1267e22117064c
+Author: Anand Balaji T V <anandbalaji.tv@MT-C02TN1UHG8WN.local>
+Date:   Fri Dec 29 16:44:59 2017 +0530
+
+    readto.txt
+
+commit 1983da19e7ed1250a64e0964a27ab3bca48c7898
+Author: Anand Balaji T V <anandbalaji.tv@MT-C02TN1UHG8WN.local>
+Date:   Fri Dec 29 16:36:41 2017 +0530
+
+    readme.txt
